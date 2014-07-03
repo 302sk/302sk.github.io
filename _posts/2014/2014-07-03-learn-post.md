@@ -11,7 +11,7 @@ tags:
 ## markdown需要使用何种格式，才能符合jelly模板
 `代码块` ？
 
-```
+```c++
 printf("hello world\n");
 ````
 
