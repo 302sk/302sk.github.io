@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ñ§Ï°¿É±»Ê¶±ğµÄMarkdown¸ñÊ½
+title: å­¦ä¹ å¯è¢«è¯†åˆ«çš„Markdownæ ¼å¼
 categories:
 - Writing
 tags:
@@ -8,8 +8,8 @@ tags:
 - markdown
 ---
 
-## markdownĞèÒªÊ¹ÓÃºÎÖÖ¸ñÊ½£¬²ÅÄÜ·ûºÏjellyÄ£°å
-`´úÂë¿é` £¿
+## markdownéœ€è¦ä½¿ç”¨ä½•ç§æ ¼å¼ï¼Œæ‰èƒ½ç¬¦åˆjellyæ¨¡æ¿
+`ä»£ç å—` ï¼Ÿ
 
 ```
 printf("hello world\n");
