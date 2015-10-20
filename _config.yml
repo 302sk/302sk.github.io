@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://shenkun.github.com
-author: sk
+url: http://302sk.github.com
+author: 302sk
 pygments: true
 paginate: 24
