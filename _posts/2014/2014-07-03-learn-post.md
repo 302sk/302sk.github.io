@@ -20,22 +20,6 @@ def hello():
     print("hello")
 ````
 
-{% highlight c %}
-int main(int argc, char* argv[])
-{
-    printf("Hello Markdown\n");
-}
-{% endhighlight %}
-
-{% highlight javascript %}
-function(a,b){
-    var c = a + b;
-    return c;
-}
-
-{% endhighlight %}
-
-
 电器 | 价格
 ------|------
 洗衣机| 2233
