@@ -30,9 +30,8 @@ function(a,b){
 
 {% endhighlight %}
 
+---
+Item: Computer
+Value: 2233
+---
 
-Item      | Value
---------- | -----
-Computer  | 1600 USD
-Phone     | 12 USD
-Pipe      | 1 USD
