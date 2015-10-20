@@ -1,4 +1,4 @@
----
+I:---
 layout: post
 title: 学习可被识别的Markdown格式
 categories:
@@ -34,4 +34,8 @@ function(a,b){
 Item: Computer
 Value: 2233
 ---
+
+电器 | 价格
+------|------
+洗衣机| 2233
 
