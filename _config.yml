@@ -1,6 +1,6 @@
 markdown: redcarpet
 redcarpet: 
-  extensions: ["fenced_code_blocks", "table", "highlight", "with_toc_data", "strikethrough", "underline", "autolink"]
+  extensions: ["fenced_code_blocks", "tables", "highlight", "with_toc_data", "strikethrough", "underline", "autolink"]
 permalink: /:year/:month/:title/
 url: http://302sk.github.com
 author: 302sk
