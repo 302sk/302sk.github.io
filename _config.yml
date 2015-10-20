@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://302sk.github.com
+url: http://302sk.github.com/about
 author: 302sk
 pygments: true
 paginate: 24
