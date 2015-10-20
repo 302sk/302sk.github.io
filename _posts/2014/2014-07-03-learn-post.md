@@ -15,6 +15,11 @@ tags:
 printf("hello world\n");
 ````
 
+```python
+def hello():
+    print("hello")
+````
+
 {% highlight c %}
 int main(int argc, char* argv[])
 {
