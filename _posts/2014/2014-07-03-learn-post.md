@@ -30,10 +30,6 @@ function(a,b){
 
 {% endhighlight %}
 
----
-Item: Computer
-Value: 2233
----
 
 电器 | 价格
 ------|------
