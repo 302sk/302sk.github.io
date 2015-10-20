@@ -1,4 +1,4 @@
-I:---
+---
 layout: post
 title: 学习可被识别的Markdown格式
 categories:
