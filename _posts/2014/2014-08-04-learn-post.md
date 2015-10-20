@@ -2,10 +2,9 @@
 layout: post
 title: 乘时间机器回到过去补log
 categories:
-- 补Log
+- 还债
 tags:
-- blog
-- markdown
+- 时间
 ---
 
 ## 2015年乘时间机器回到过去补log
