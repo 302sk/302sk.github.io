@@ -1,3 +1,13 @@
+---
+layout: post
+title: 玩儿转Raspberry Pi 3之Windows IoT Core
+categories:
+- Raspberry Pi
+tags:
+- IoT
+- Windows IoT Core
+---    
+    
     这是折腾Raspberry pi 3的一系列文章，因为还不知道要用RPi做什么具体的Project，所以本系列的前几篇应该是熟悉这个开发版，试用能在上面跑起来的OS，以及基本的环境搭建。
 
 因为目前所在的公司是微软技术的推广者，并且微软在去年大力"熊抱"开源社区，发布了支持RPi2B的Windows IoT Core操作系统，今年在RPi3推出后，又迅速跟进发布了支持RPi3的开发者预览版，所以本系列文章就从Windows IoT Core开始折腾。安装Windows IoT Core就像安装Linux发行版一样，有两种方式：  
