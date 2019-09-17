@@ -1,6 +1,6 @@
 <div id="gitmentContainer"></div>
 <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script src="/media/js/gitment.js"></script>
 <script>
 var gitment = new Gitment({
     owner: '302sk',
