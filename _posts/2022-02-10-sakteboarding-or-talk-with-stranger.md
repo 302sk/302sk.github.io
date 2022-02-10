@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 去玩滑板还是和陌生人聊天？
-date: 2022-02-10 11:11
-category: 滑板
+title: 去玩滑板还是和陌生人聊天?
+category:
+- skateboard
 author: Kun
-tags: [skateboard][talk]
+tags:
+- skateboard
 summary: 玩滑板与主动搭讪陌生人哪个更酷
 ---
 
