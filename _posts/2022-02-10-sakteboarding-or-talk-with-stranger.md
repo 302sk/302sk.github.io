@@ -3,10 +3,8 @@ layout: post
 title: 去玩滑板还是和陌生人聊天?
 category:
 - skateboard
-author: Kun
 tags:
 - skateboard
-summary: 玩滑板与主动搭讪陌生人哪个更酷
 ---
 
 # 午休时间去玩滑板
