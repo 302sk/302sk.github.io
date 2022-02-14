@@ -1,8 +1,10 @@
 ---
-layout: article
 title: 中年夫妻的塑料花爱情
+tags: 爱情
 author: kun
+comments: true
 ---
+
 
 ```
 中年夫妻的爱情，就像这朵塑料花，时间久了会变脆，会褪色，但就是不能凋谢
