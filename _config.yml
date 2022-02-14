@@ -6,3 +6,4 @@ url: http://302sk.github.io
 author: kun
 pygments: true
 paginate: 24
+theme: jekyll-text-theme
