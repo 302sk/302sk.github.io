@@ -1,11 +1,7 @@
 ---
 layout: article
 title: 中年夫妻的塑料花爱情
-date: 2022-02-15 00:29
-category: 
 author: kun
-tags: 爱情
-summary: 
 ---
 
 ```
