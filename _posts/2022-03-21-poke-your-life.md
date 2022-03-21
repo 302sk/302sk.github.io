@@ -23,7 +23,7 @@ comments: true
 
 > 有的鸟来到世间，是为了做他们认为正确的事，而不是躲枪子儿的。
 
-以下是我对乔布斯这段话的理解，供你参考
+**以下是我对乔布斯这段话的理解，供你参考**
 
 > When you grow up, you tend to get told that the world is the way it is and your life is just to live your life inside the world, try not to bash into the walls too much, try to have a nice family life, have fun, save a little money.
 
