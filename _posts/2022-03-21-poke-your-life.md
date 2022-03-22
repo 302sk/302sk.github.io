@@ -3,7 +3,7 @@ published: true
 title: 戳一下你的生活
 tags: SteveJobs change
 author: kun
-comments: true
+key: page-post
 ---
 
 [![You can build your own things](https://img.youtube.com/vi/kYfNvmF0Bqw/0.jpg)](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
