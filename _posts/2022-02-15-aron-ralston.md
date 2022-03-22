@@ -3,6 +3,7 @@ title: Aron Ralston
 tags: 户外 极限运动 名人
 author: kun
 comment: true
+key: page-post
 ---  
 
 ## 一个人去冒险
