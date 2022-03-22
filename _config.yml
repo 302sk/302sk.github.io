@@ -22,7 +22,7 @@ url     : https://302sk.github.io # the base hostname & protocol for your site e
 baseurl : # does not include hostname
 title   : 三十七周刊blog
 description: > # this means to ignore newlines until "Language & timezone"
-  分享我探索新事物的见闻和感悟，希望能鼓励并帮助你 Try something new.
+  传递改变的力量
 
 
 ## => Language and Timezone
@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -127,12 +127,13 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
+    enable      : true
+    clientID    : afe25e63462402a37294 # GitHub Application Client ID
+    clientSecret: ff2d9642755318e55552c1f5d585ff8bd314caad # GitHub Application Client Secret
+    repository  : 37comments # GitHub repo
+    owner       : 302sk # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+      - 302sk
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
