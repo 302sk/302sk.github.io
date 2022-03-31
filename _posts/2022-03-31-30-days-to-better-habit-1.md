@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+title: 关注你想成为什么样的人-——Habits养成系列之一
+tags: habit james translation
+author: kun
+comments: true
+key: page-post
 ---
 最近，我订阅了 James Clear 的一个系列课程 「[30 days to better habits](https://jamesclear.com/30-days)」，在培养习惯/爱好方面，恰好我也在尝试一些方法和工具，在这个过程中有些思考和收获，我会结合学习课程的心得和我的实践，写这个系列博文，希望能帮你选择一个好习惯/爱好，并坚持下去。
 
