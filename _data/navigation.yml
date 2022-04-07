@@ -22,7 +22,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: https://kun37.zhubai.love
+    url: /newsletter.html
 
   - titles:
       # @start locale config
