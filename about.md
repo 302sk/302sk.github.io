@@ -2,21 +2,21 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
+  zh-Hans : &ZH_HANS 
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
+  zh-Hant : &ZH_HANT 
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
-  ko      : &KO       소개
+  ko      : &KO
   ko-KR   : *KO
-  fr      : &FR       À propos
+  fr      : &FR
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
@@ -25,3 +25,25 @@ titles:
   # @end locale config
 key: page-about
 ---
+我是一个普通程序员，做过近十年的嵌入式软件开发，5年IT咨询顾问，目前主要从事计算机视觉软件研发。好奇心作祟，技术栈很杂，尤其喜欢和硬件有关的编程技术。编程之外，弹 Ukulele 和滑板是我的花费精力最多的两项爱好，偶尔会在[即刻](https://jike.city/kun37)和 [twitter](https://twitter.com/302sk) 分享视频。
+
+这个 blog，是我10年来多次尝试坚持写作未遂之后，下决心坚守的写作阵地，目前还没有固定的更新周期。在这里，我主要记录阅读产生的感想和思考，也会翻译/分享一些好文章。我对这个 blog 有个小小的期许：除了记录感想助我思考以外，能够给你的信息源增加一个维度，让我们一起变得更多元。所以，如果你在这里获得了有用的信息，希望你能评论告诉我，这是对我最大的鼓励和帮助，让我能把写作坚持下去，并做得更好。
+
+### 我的作品/项目
+
+**[三十七周刊](http://nl.37weekly.com)**  
+
+除了这个 blog 我每周还会写一期 Newsletter，主要分享一周内对我有启发的文章、书籍、播客等内容。开始写这个周刊，是因为我突然认识到创作的重要，而写作是我认为最易上手的创作形式。这个 Newsletter 中所分享的精选内容和我的经历以及思考，能够让你意识到创作的重要和好处，从而像我一样开始转变，是我最大的心愿。欢迎订阅并推荐给你的朋友。  
+
+**[阅读笔记](https://github.com/302sk/37memos/issues)**  
+
+我平时使用flomo记录我在阅读中的感想和联想，以及一些碎片化的思考，这些内容我会同步到这个 issue 列表，希望对你有用
+
+### 我是如何认识到创作的重要性和好处的
+其实，作为一个程序员，我一直都在靠「创作」为生，但我从来没觉得我写的代码重要。可能是因为工作中的「创作」，只是在为一个你可能根本不感兴趣的产品/项目做贡献，这个项目/产品很多时候都没有人使用，你的「创作」价值也无法得到反馈。所以，我这里指的是「公开创作」，把你的作品甚至作品创建的过程**发布**出来的那种创作，只有发布出来，才能得到用户/读者/消费者的直接反馈，进而知道你哪里做得好，哪里做得不好。也只有这样最直接的反馈，才能让我们改进方法方式，创建真正有价值的作品，从而变成有价值（能看到自己产生价值）的人。我还记得那个触发转变的关键点，就是我读到这句话的瞬间  
+
+>Life can be much broader, once you discover one simple fact, and that is that everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.
+
+这是 Steve Jobs 在某一次接受采访时说的，全文在[这里](https://37weekly.com/2022/03/21/poke-your-life.html)，大意是：**真正的生活应该更为广阔。一旦你意识到，被你称作生活的里面的一切，都是不比你聪明的一群人创造出来的，你可以改变它们，影响它们，甚至创造属于你自己的东西让别人使用。当你认识到这一点，你就不会再甘于现状。** 
+
+是的，我就是被这句话点醒的，在那之后我决定开始创造一些属于自己的东西，发布出去，让人们使用、消费，从中汲取力量与灵感。希望看到这里的你，也能够支持我，对我的作品做出反馈，告诉我它们是否有用，够不够好，更希望你从此开始创作（如果还没有），不甘于这世界的现状，想办法让它变得更好。
