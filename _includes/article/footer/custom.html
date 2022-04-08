@@ -1,3 +1,12 @@
 <!-- start custom article footer snippet -->
+{% if page.applause_button %}
+    <br/>
+  <applause-button class="mb6"
+    color={{ site.accent_color | default:'rgb(252,77,80)' }}
+    url={{ post.url | absolute_url }} >
+  </applause-button>
+{% else %}
+  <!-- original content of dingbat.html -->
+{% endif %}
 
 <!-- end custom article footer snippet -->
