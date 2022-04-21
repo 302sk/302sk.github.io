@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+title: 充分准备环境——Habits养成系列之六
+tags: habit james translation 准备环境
+author: kun
+comments: true
+key: page-post
 ---
 
 这是30天habits养成系列文章的第六篇，结合我的自身经验和 James Clear 的[课程](https://jamesclear.com/30-days)翻译。如果你有兴趣培养一个新的好习惯，推荐你从[第一篇](https://37weekly.com/2022/03/31/30-days-to-better-habit-1.html)开始读，每篇只需5分钟。本次课程的主题是：
