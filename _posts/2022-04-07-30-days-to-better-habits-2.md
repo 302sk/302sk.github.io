@@ -1,6 +1,6 @@
 ---
 published: true
-title: 建立2分钟入门习惯——Habits养成系列之二
+title: 建立2分钟入门习惯——Habits养成系列[2]
 tags: habit james translation 2分钟原则 降低门槛
 author: kun
 comments: true

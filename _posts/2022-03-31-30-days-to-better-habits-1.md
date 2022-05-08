@@ -1,6 +1,6 @@
 ---
 published: true
-title: 关注你想成为什么样的人——Habits养成系列之一
+title: 关注你想成为什么样的人——Habits养成系列[1]
 tags: habit james translation
 author: kun
 comments: true

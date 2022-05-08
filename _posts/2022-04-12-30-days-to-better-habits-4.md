@@ -1,6 +1,6 @@
 ---
 published: true
-title: 让好习惯触手可及——Habits养成系列之四
+title: 让好习惯触手可及——Habits养成系列[4]
 tags: habit james 2分钟原则 降低门槛
 author: kun
 comments: true

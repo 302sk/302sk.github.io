@@ -1,6 +1,6 @@
 ---
 published: true
-title: 抵抗懒癌的策略——Habits养成系列之七
+title: 抵抗懒癌的策略——Habits养成系列[7]
 tags: habit james translation 诱惑绑定 设置承诺器
 author: kun
 comments: true

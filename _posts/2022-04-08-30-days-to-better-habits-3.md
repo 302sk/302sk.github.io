@@ -1,6 +1,6 @@
 ---
 published: true
-title: 如何在日常生活中植入你的新习惯——Habits养成系列之三
+title: 如何在日常生活中植入你的新习惯——Habits养成系列[3]
 tags: habit james translation 2分钟原则 降低门槛 实施意图
 author: kun
 comments: true

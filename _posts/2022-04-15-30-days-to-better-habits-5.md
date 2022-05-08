@@ -1,6 +1,6 @@
 ---
 published: true
-title: 减少摩擦——Habits养成系列之五
+title: 减少摩擦——Habits养成系列[5]
 tags: habit james translation 2分钟原则 减少摩擦
 author: kun
 comments: true

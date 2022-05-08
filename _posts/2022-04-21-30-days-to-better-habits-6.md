@@ -1,6 +1,6 @@
 ---
 published: true
-title: 充分准备环境——Habits养成系列之六
+title: 充分准备环境——Habits养成系列[6]
 tags: habit james translation 准备环境
 author: kun
 comments: true
